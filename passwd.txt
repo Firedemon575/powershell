@@ -1,0 +1,5 @@
+alumno:x:1000:1000:alumno,,,:/home/alumno:/bin/bash
+alumno2:x:1001:1000:alumno2,,,:/home/datos:/bin/bash
+alumn3:x:1002:1000:alumno3,,,:/home/varios:/bin/bash
+alumn4:x:1003:1000:alumno4,,,:/home/apuntes:/bin/bash
+alumo5:x:1004:1000:alumno5,,,:/home/carpetas:/bin/bash
